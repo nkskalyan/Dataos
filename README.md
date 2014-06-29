@@ -20,3 +20,10 @@ Before you run it, make sure you update recipe__oauth_login.py with your own Twi
 
 visualise.py file shows a visualisation of Merchants having positive reviews versus Merchants having negative reviews
 printFraudMerchants.py uses data from reviews analysed using sentimental analysis to identify fraudulent merchants
+
+Libraries and API Used:
+Python BeautifulSoup
+Python Urllib
+BestBuy API
+Wordnet 
+Stanford POS Tagger
